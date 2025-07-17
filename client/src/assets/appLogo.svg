@@ -1,0 +1,10 @@
+<svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="150" fill="none"></rect>
+  <g fill="white">
+    <!-- Luxury home/hotel icon (stylized classical building with roof and pillars) -->
+    <path d="M50 70 L75 50 L100 70 H90 V100 H80 V80 H70 V100 H60 V70 Z M75 55 L80 60 H70 Z"></path>
+    
+    <!-- Luxovia text -->
+    <text x="120" y="90" font-family="Georgia, serif" font-size="36" fill="white">Luxovia</text>
+  </g>
+</svg>
