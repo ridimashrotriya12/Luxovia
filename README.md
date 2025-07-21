@@ -40,7 +40,7 @@ Luxovia is a full-stack hotel booking web application built using the **MERN** s
 ## 🔧 Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/Luxovia.git
+git clone https://github.com/ridimashrotriya12/Luxovia.git
 cd Luxovia  
 
 **Install Dependencies**
